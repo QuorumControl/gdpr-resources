@@ -54,7 +54,12 @@ In talking to others, there seems to be some consensus on the following safeguar
 * Keep audit logs of all access to PII.
 * Understand what 3rd parties have access to your PII and explicitly sign contracts with them that guarantee they are also following the GDPR.
 
-Some understand the law to go even farther with regards to data deletion. Users have the right to purge all their data from your system. This is generally a hard problem (given backups). 
+Some understand the law to go even farther with regards to data deletion. Users have the right to purge all their data from your system. This is generally a hard problem (given backups). Therefor some suggest the following:
+
+* encrypt each user's information with a separate key
+  * when a user requests deletion, throw away your key
+  
+You can keep backups of your keys as long as that backup is only for a window. That way you will gracefully roll away your user's info in a provable manner.
 
 ## Links
 
