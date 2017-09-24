@@ -10,7 +10,7 @@ Non-compliance can result in loss of *4% of worldwide revenue (or €20mm) per i
 
 ## What is this repo?
 
-It’s just a start! The goal of this repository is to provide as much easy to understand information as possible. It will initially focus on smaller businesses that need to be compliant and what they can do. This repo focuses on technology companies, but it is designed to be a growing resource. Please contribute! See How to Contribute. 
+It’s just a start! The goal of this repository is to provide as much easy to understand information as possible. It will initially focus on smaller businesses that need to be compliant and what they can do. This repo focuses on technology companies, but it is designed to be a growing resource. Please contribute! See [How to Contribute](#how-to-contribute). 
 
 ## More in-depth on GDPR
 
