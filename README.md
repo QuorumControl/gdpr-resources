@@ -63,10 +63,10 @@ You can keep backups of your keys as long as that backup is only for a window. T
 
 ## Links
 
-https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx - Microsoft’s pretty complete analysis on your readiness
-https://gdpr-info.eu - complete law (english), nicely formattted
-https://gdpr-info.eu/art-32-gdpr/ - security of processing section
-https://www.helpnetsecurity.com/2016/11/10/gdpr-privacy-study/ - what others are doing to prepare
+* https://www.microsoft.com/en-us/TrustCenter/Privacy/gdpr/default.aspx - Microsoft’s pretty complete analysis on your readiness
+* https://gdpr-info.eu - complete law (english), nicely formattted
+* https://gdpr-info.eu/art-32-gdpr/ - security of processing section
+* https://www.helpnetsecurity.com/2016/11/10/gdpr-privacy-study/ - what others are doing to prepare
 
 
 ## Similarities to other regulation.
